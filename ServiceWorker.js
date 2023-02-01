@@ -1,4 +1,4 @@
-const cacheName = "BSCS 4A-Adventure Project-0.10.3";
+const cacheName = "BSCS 4A-Adventure Project-0.10.5";
 const contentToCache = [
     "Build/WebGL.loader.js",
     "Build/WebGL.framework.js",
