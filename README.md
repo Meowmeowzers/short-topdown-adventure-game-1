@@ -1,5 +1,6 @@
 # short-topdown-adventure-game-1
 A WebGL build of the top down adventure game that I made in Unity.
+- Needs a lot of improvement
 
 # Asset Credits
 
